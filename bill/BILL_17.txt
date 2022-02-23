@@ -1,0 +1,31 @@
+Order no.17
+
+Date: 21/05/2021
+Name: Client
+Address: asd
+Email: @mail
+Phone: 23
+
+Products:
+1: A Simple Roast Turkey   (price: 78)
+2: Aged Rib Eye with Onion PurĂ©e   (price: 42)
+3: Meniu Family (total price: 471)
+  -Mussels alla Diavola  (price: 76)
+  -Romaine and Broccoli Salad with Creamy Roasted Garlic Dressing  (price: 16)
+  -Romaine Salad with Chives and Blue Cheese  (price: 46)
+  -Rosemary-Roasted Lamb with Pan Juices  (price: 27)
+  -Rustic Plum Pie  (price: 17)
+  -Salmon with Beurre Rouge and Smoked-Salmon-Stuffed Baked Potato  (price: 43)
+  -Sausage Stuffing  (price: 37)
+  -Scallop and Vegetable Stir-Fry  (price: 51)
+  -Sweet-Potato Salad with Mustard Viniagrette  (price: 20)
+  -Walnut Bread  (price: 42)
+  -Zucchini-Blossom Quesadillas  (price: 96)
+4: Meniu 1 (total price: 282)
+  -"La Brea Tar Pit" Chicken Wings  (price: 92)
+  -Almond-Crusted Shrimp Cakes with Lemon Soy Mayonnaise  (price: 49)
+  -Apple-Clove Butter  (price: 26)
+  -Artillery Punch  (price: 76)
+  -Asparagus with Morels and Tarragon  (price: 39)
+
+Total price: 873

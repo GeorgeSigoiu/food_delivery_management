@@ -1,0 +1,12 @@
+Order no.15
+
+Date: 21/05/2021
+Name: George
+Address: starsad				
+Email: georgesigoiu1@gmail.com
+Phone: 0721005617
+
+Products:
+1: Southwestern Taco Salad   (price: 67)
+
+Total price: 67

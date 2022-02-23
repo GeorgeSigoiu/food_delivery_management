@@ -1,0 +1,15 @@
+Order no.18
+
+Date: 21/05/2021
+Name: Client
+Address: asd
+Email: @mail
+Phone: 23
+
+Products:
+1: "Cocotte" of Vegetables   (price: 93)
+2: "Drunken" Pork Chops   (price: 97)
+3: "Like a Caesar"   (price: 72)
+4: "Redeye" Braised Lamb Shanks and Beans   (price: 23)
+
+Total price: 285

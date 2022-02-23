@@ -1,0 +1,5 @@
+
+  Clients that have ordered more than 0 times and the value of the order was higher than 800:
+  1. gica (id = 6)
+  2. Client (id = 7)
+

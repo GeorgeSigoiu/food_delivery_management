@@ -1,0 +1,14 @@
+Order no.6
+
+Date: 2/06/2021
+Name: George
+Address: adresa2
+Email: george@gmail.com
+Phone: 0721
+
+Products:
+1: "Paella" Fried Rice   (price: 31)
+2: "Redeye" Braised Lamb Shanks and Beans   (price: 23)
+3: "Seder Plate" Salad   (price: 77)
+
+Total price: 131

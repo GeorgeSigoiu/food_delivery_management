@@ -1,0 +1,13 @@
+Order no.5
+
+Date: 2/06/2021
+Name: George
+Address: adresa2
+Email: george@gmail.com
+Phone: 0721
+
+Products:
+1: "Cannoli" Ice Cream Sandwiches   (price: 34)
+2: "Drunken" Pork Chops   (price: 97)
+
+Total price: 131

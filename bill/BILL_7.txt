@@ -1,0 +1,17 @@
+Order no.7
+
+Date: 21/05/2021
+Name: George
+Address: starsad				
+Email: georgesigoiu1@gmail.com
+Phone: 0721005617
+
+Products:
+1: "Cannoli" Ice Cream Sandwiches   (price: 34)
+2: "Redeye" Braised Lamb Shanks and Beans   (price: 23)
+3: "Seder Plate" Salad   (price: 77)
+4: 1989 Chocolate Raspberry Almond Torte   (price: 99)
+5: 3-Ingredient Peanut Butter Cookies   (price: 74)
+6: 3-Ingredient Peppermint Rocky Road Candies   (price: 86)
+
+Total price: 393

@@ -1,0 +1,23 @@
+Order no.16
+
+Date: 21/05/2021
+Name: George
+Address: asdresa 1
+Email: george@yahoo.com
+Phone: 0721005
+
+Products:
+1: Meniu Family (total price: 471)
+  -Mussels alla Diavola  (price: 76)
+  -Romaine and Broccoli Salad with Creamy Roasted Garlic Dressing  (price: 16)
+  -Romaine Salad with Chives and Blue Cheese  (price: 46)
+  -Rosemary-Roasted Lamb with Pan Juices  (price: 27)
+  -Rustic Plum Pie  (price: 17)
+  -Salmon with Beurre Rouge and Smoked-Salmon-Stuffed Baked Potato  (price: 43)
+  -Sausage Stuffing  (price: 37)
+  -Scallop and Vegetable Stir-Fry  (price: 51)
+  -Sweet-Potato Salad with Mustard Viniagrette  (price: 20)
+  -Walnut Bread  (price: 42)
+  -Zucchini-Blossom Quesadillas  (price: 96)
+
+Total price: 471

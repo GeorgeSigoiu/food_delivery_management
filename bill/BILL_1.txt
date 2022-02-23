@@ -1,0 +1,13 @@
+Order no.1
+
+Date: 2/06/2021
+Name: Raul
+Address: adresa
+Email: raul@gmail.com
+Phone: 032
+
+Products:
+1: "Bloody Mary" Tomato Toast with Celery and Horseradish   (price: 16)
+2: "Brown on Blonde" Blondies   (price: 96)
+
+Total price: 112

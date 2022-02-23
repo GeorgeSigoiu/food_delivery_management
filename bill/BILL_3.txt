@@ -1,0 +1,14 @@
+Order no.3
+
+Date: 2/06/2021
+Name: George
+Address: adresa2
+Email: george@gmail.com
+Phone: 0721
+
+Products:
+1: "California Roll" Salad   (price: 67)
+2: "Cannoli" Ice Cream Sandwiches   (price: 34)
+3: "Drunken" Pork Chops   (price: 97)
+
+Total price: 198

@@ -1,0 +1,14 @@
+Order no.4
+
+Date: 2/06/2021
+Name: George
+Address: adresa2
+Email: george@gmail.com
+Phone: 0721
+
+Products:
+1: "Blanketed" Eggplant   (price: 88)
+2: "Bloody Mary" Tomato Toast with Celery and Horseradish   (price: 16)
+3: "Brown on Blonde" Blondies   (price: 96)
+
+Total price: 200

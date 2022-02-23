@@ -1,0 +1,12 @@
+Order no.11
+
+Date: 21/05/2021
+Name: George
+Address: starsad				
+Email: georgesigoiu1@gmail.com
+Phone: 0721005617
+
+Products:
+1: "Seder Plate" Salad   (price: 77)
+
+Total price: 77

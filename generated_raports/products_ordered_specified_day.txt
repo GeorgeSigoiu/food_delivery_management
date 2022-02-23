@@ -1,0 +1,58 @@
+
+  the products ordered in 21/05/2021:
+  1. "Blanketed" Eggplant  --> 1
+  2. "Bloody Mary" Tomato Toast with Celery and Horseradish  --> 1
+  3. "Brown on Blonde" Blondies  --> 1
+  4. "California Roll" Salad  --> 1
+  5. "Cannoli" Ice Cream Sandwiches  --> 2
+  6. "Cocotte" of Vegetables  --> 1
+  7. "La Brea Tar Pit" Chicken Wings  --> 2
+  8. "Like a Caesar"  --> 2
+  9. "Redeye" Braised Lamb Shanks and Beans  --> 1
+  10. "Seder Plate" Salad  --> 3
+  11. "Seethed" Mussels with Parsley and Vinegar  --> 1
+  12. 1989 Chocolate Raspberry Almond Torte  --> 1
+  13. 3-Ingredient Peanut Butter Cookies  --> 1
+  14. 3-Ingredient Peppermint Rocky Road Candies  --> 1
+  15. All-Day Slow-Cooker Cassoulet  --> 3
+  16. Almond and Mixed-Berry Shortcakes  --> 3
+  17. Almond Meringue Torte with Lemon and Strawberry Filling  --> 3
+  18. Almond-Crusted Shrimp Cakes with Lemon Soy Mayonnaise  --> 2
+  19. American Beauty  --> 3
+  20. Angel Hair Pasta with Tuna and Tomato Sauce  --> 2
+  21. Apple and Blackberry Sorbet  --> 2
+  22. Apple Cheese Wraps  --> 2
+  23. Apple-Clove Butter  --> 2
+  24. Apple-Prune Crisp with Hazelnut Topping  --> 1
+  25. Apricot Frozen Yogurt  --> 1
+  26. Apricot-Raspberry Pie with Hazelnut Streusel Topping  --> 1
+  27. Artichoke Croustades  --> 1
+  28. Artillery Punch  --> 2
+  29. Arugula-Stuffed Leg of Lamb with Roasted Spring Vegetables  --> 1
+  30. Asian Noodles with Barbecued Duck Confit  --> 1
+  31. Asparagus and Shiitake Risotto  --> 1
+  32. Asparagus with Morels and Tarragon  --> 2
+  33. Aunt Agatha  --> 1
+  34. Avocado JĂ­cama Salsa with Yuca Chips  --> 1
+  35. Baby Zucchini and Patty Pan Squash Sauteed in Herb Butter  --> 1
+  36. Grilled Quail Salad with Creamy Garlic Vinaigrette  --> 1
+  37. Grilled Red and Green Cabbage Slaw  --> 1
+  38. Grilled Rib-Eye Steaks with Black Bean Sauce  --> 1
+  39. Mussels alla Diavola  --> 2
+  40. Roast Chicken with Mushroom Stuffing and Sauce  --> 1
+  41. Roast Chicken with Pancetta and Olives  --> 1
+  42. Roast Chicken with Rosemary-Garlic Paste  --> 1
+  43. Roast Lamb with Lamb Sausage Crust and Fresh Grape Pan Sauce  --> 1
+  44. Romaine and Broccoli Salad with Creamy Roasted Garlic Dressing  --> 2
+  45. Romaine Salad with Chives and Blue Cheese  --> 2
+  46. Rosemary-Roasted Lamb with Pan Juices  --> 2
+  47. Rustic Plum Pie  --> 2
+  48. Salmon with Beurre Rouge and Smoked-Salmon-Stuffed Baked Potato  --> 2
+  49. Sausage Stuffing  --> 2
+  50. Scallop and Vegetable Stir-Fry  --> 2
+  51. Southern Corn Bread Stuffing with Smoked Ham and Yams  --> 1
+  52. Southwestern Taco Salad  --> 1
+  53. Sweet-Potato Salad with Mustard Viniagrette  --> 2
+  54. Walnut Bread  --> 2
+  55. Zucchini-Blossom Quesadillas  --> 2
+

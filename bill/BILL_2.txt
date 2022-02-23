@@ -1,0 +1,14 @@
+Order no.2
+
+Date: 2/06/2021
+Name: Raul
+Address: adresa
+Email: raul@gmail.com
+Phone: 032
+
+Products:
+1: "California Roll" Salad   (price: 67)
+2: "Candy Corn" Frozen Citrus Cream Pops   (price: 90)
+3: "Cannoli" Ice Cream Sandwiches   (price: 34)
+
+Total price: 191

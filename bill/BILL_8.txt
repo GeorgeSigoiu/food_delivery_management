@@ -1,0 +1,14 @@
+Order no.8
+
+Date: 21/05/2021
+Name: George
+Address: starsad				
+Email: georgesigoiu1@gmail.com
+Phone: 0721005617
+
+Products:
+1: Grilled Quail Salad with Creamy Garlic Vinaigrette   (price: 73)
+2: Grilled Red and Green Cabbage Slaw   (price: 34)
+3: Grilled Rib-Eye Steaks with Black Bean Sauce   (price: 56)
+
+Total price: 163

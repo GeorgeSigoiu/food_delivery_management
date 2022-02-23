@@ -1,0 +1,12 @@
+Order no.9
+
+Date: 21/05/2021
+Name: George
+Address: starsad				
+Email: georgesigoiu1@gmail.com
+Phone: 0721005617
+
+Products:
+1: "Seethed" Mussels with Parsley and Vinegar   (price: 31)
+
+Total price: 31

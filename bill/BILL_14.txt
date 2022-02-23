@@ -1,0 +1,15 @@
+Order no.14
+
+Date: 21/05/2021
+Name: George
+Address: starsad				
+Email: georgesigoiu1@gmail.com
+Phone: 0721005617
+
+Products:
+1: Roast Chicken with Mushroom Stuffing and Sauce   (price: 18)
+2: Roast Chicken with Rosemary-Garlic Paste   (price: 53)
+3: Roast Lamb with Lamb Sausage Crust and Fresh Grape Pan Sauce   (price: 88)
+4: Southern Corn Bread Stuffing with Smoked Ham and Yams   (price: 74)
+
+Total price: 233
